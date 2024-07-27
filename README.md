@@ -76,7 +76,7 @@ screen -S ngrok
 
 ![Cuplikan layar 2024-07-27 193853](https://github.com/user-attachments/assets/701655b1-2f4c-453b-b4f7-da83649c8ae6)
 
-## ngrok contoh paste di dalam terminal ( docker run --net=host -it -e NGROK_AUTHTOKEN=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ngrok/ngrok:latest http 3001 )
+## ngrok contoh paste di dalam terminal ( docker run --net=host -it -e NGROK_AUTHTOKEN=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ngrok/ngrok:latest http 3001 ) ENTER
 
 ## kalo sudah jalan ngrok nya CTRL+A+D
 
