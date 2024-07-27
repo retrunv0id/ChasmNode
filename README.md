@@ -76,13 +76,13 @@ screen -S ngrok
 
 ![Cuplikan layar 2024-07-27 193853](https://github.com/user-attachments/assets/701655b1-2f4c-453b-b4f7-da83649c8ae6)
 
-## ngrok contoh paste di dalam terminal ( docker run --net=host -it -e NGROK_AUTHTOKEN=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ngrok/ngrok:latest http 3001 ) ENTER
+## Ngrok contoh paste di dalam terminal ( docker run --net=host -it -e NGROK_AUTHTOKEN=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ngrok/ngrok:latest http 3001 ) ENTER
 
-## kalo sudah jalan ngrok nya CTRL+A+D
+## Kalo sudah jalan ngrok nya CTRL+A+D
 
 ## Ambil Di Ngrok URL nya Di Dalam Website Ngrok Di Endpoints CONTOH ( https://1bXX.XX.XXX.XXX.ngrok-free.app )
 
-## Install Nano .env
+## Buat File Nano .env
 ```bash
 nano .env
 ```
