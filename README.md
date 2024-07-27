@@ -109,11 +109,11 @@ docker pull chasmtech/chasm-scout:latest
 ```bash
 docker run -d --restart=always --env-file ./.env -p 3001:3001 --name scout chasmtech/chasm-scout
 ```
-## CEK Server Status
+## Cek Server Status
 ```bash
 docker logs scout
 ```
-## CEK Monitor Scout Performance
+## Cek Monitor Scout Performance
 ```bash
 docker stats scout
 ```
